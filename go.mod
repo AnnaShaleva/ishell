@@ -10,3 +10,5 @@ require (
 	github.com/flynn-archive/go-shlex v0.0.0-20150515145356-3f9db97f8568
 	github.com/stretchr/testify v1.7.0
 )
+
+replace github.com/abiosoft/readline => github.com/AnnaShaleva/readline
